@@ -26,3 +26,13 @@
 
 📁 **ดาวน์โหลดตัวอย่างไฟล์:**
 [sample_all_types_bulk.zip](https://github.com/user-attachments/files/19407592/sample_all_types_bulk.zip)
+
+## ภาพตัวอย่าง
+หน้าเว็บไซต์แสดงไฟล์ทั้งหมดภายใน folder ที่ระบุ
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/e6192273-f119-4ceb-8075-0cde392c4878" />
+
+การใช้งาน filters เพื่อเลือกแสดงไฟล์ตามประเภทของไฟล์
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/75b9b734-1b3f-4080-bb76-5b1463a555f0" />
+
+การใช้งาน filters เลือกแสดงไฟล์ประเภท Microsoft Word
+<img width="1440" alt="image" src="https://github.com/user-attachments/assets/97d0e970-deee-4af9-835e-af0bc1546719" />
