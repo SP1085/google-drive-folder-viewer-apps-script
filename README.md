@@ -25,4 +25,4 @@
 ---
 
 📁 **ดาวน์โหลดตัวอย่างไฟล์:**
-[👉 sample_all_types_bulk.zip](https://github.com/SP1085/google-drive-folder-viewer-apps-script/tree/main/sample_all_types_bulk)
+[sample_all_types_bulk.zip](https://github.com/user-attachments/files/19407592/sample_all_types_bulk.zip)
