@@ -4,10 +4,8 @@
 
 1. เปิด [Google Apps Script](https://script.new)
 2. สร้างไฟล์ `Code.gs` และ `index.html` จากโค้ดใน repo นี้
-3. แตกไฟล์จากชุด [📁 sample_all_types_bulk.zip](https://github.com/SP1085/google-drive-folder-viewer-apps-script/tree/main/sample_all_types_bulk)
-4. อัปโหลดไฟล์ทั้งหมดเข้า Google Drive ของคุณ
-5. ไปที่ **Deploy > Test as web app** แล้วกำหนดสิทธิ์ให้เรียบร้อย
-6. เปิดลิงก์ Web App เพื่อใช้งานได้ทันที 🎉
+3. ไปที่ **Deploy > Test as web app** แล้วกำหนดสิทธิ์ให้เรียบร้อย
+4. เปิดลิงก์ Web App เพื่อใช้งานได้ทันที 🎉
 
 ---
 
